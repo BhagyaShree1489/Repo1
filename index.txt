@@ -1,0 +1,10 @@
+ Volume in drive C is VINAYAK
+ Volume Serial Number is 7E68-787A
+
+ Directory of C:\Users\HP\Desktop\first git repo
+
+20/12/2020  06:44 PM    <DIR>          .
+20/12/2020  06:44 PM    <DIR>          ..
+20/12/2020  06:44 PM                 0 index.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,507,834,880 bytes free
